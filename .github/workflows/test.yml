@@ -1,0 +1,58 @@
+name: Run Moongas mediatest Python Tests
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out moongas-go-mediascan
+        uses: actions/checkout@v4
+        with:
+          repository: 'bretttolbert/moongas-go-mediascan'
+          path: 'moongas-go-mediascan'
+
+      - name: Check out moongas-py-mediascan
+        uses: actions/checkout@v4
+        with:
+          repository: 'bretttolbert/moongas-py-mediascan'
+          path: 'moongas-py-mediascan'
+
+      - name: Check out moongas-py-mediatest
+        uses: actions/checkout@v4
+        with:
+          repository: 'bretttolbert/moongas-py-mediatest'
+          path: 'moongas-py-mediatest'
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: Build and Install Go Module
+        run: |
+          cd moongas-go-mediascan
+          go install ./...
+          # Ensure Go binary path is available in PATH
+          echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.14'
+
+      - name: Install Python Packages & Run Tests
+        run: |
+          python -m pip install --upgrade pip
+          
+          # Install cloned Python repositories locally
+          pip install -e ./moongas-py-mediascan
+          pip install -e ./moongas-py-mediatest
+          
+          # Execute test suite inside the test repository folder
+          cd moongas-py-mediatest
+          python -m mediatest ../mediatest-config.yml
