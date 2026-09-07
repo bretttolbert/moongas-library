@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - 'The Moldy Peaches'
+  city: 'New York City'
+  countryCode: US
+  regionCode: US-NY
+  languageCodes:
+  - en

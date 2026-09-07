@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Al Stewart
+  city: Glasgow
+  countryCode: GB
+  languageCodes:
+  - en
+  regionCode: GB-SCT

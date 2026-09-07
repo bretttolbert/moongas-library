@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - The Egg
+  city: Oxford
+  countryCode: GB
+  languageCodes:
+  - en
+  regionCode: GB-OXF

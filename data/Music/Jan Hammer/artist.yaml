@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Jan Hammer
+  city: Prague
+  countryCode: CZ
+  languageCodes:
+  - en
+  regionCode: CZ-10

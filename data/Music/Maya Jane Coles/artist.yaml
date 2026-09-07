@@ -1,0 +1,10 @@
+artistData:
+  artistNames:
+  - Maya Jane Coles
+  dob:
+    y: 1988
+  city: London
+  countryCode: GB
+  regionCode: GB-LND
+  languageCodes:
+  - en

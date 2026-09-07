@@ -1,0 +1,9 @@
+artistData:
+  artistNames:
+  - Public Image Ltd
+  - PiL
+  city: London
+  countryCode: GB
+  languageCodes:
+  - en
+  regionCode: GB-LND

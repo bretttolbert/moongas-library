@@ -1,0 +1,12 @@
+artistData:
+  artistNames:
+  - Don Davis
+  dob:
+    y: 1957
+    m: 2
+    d: 4
+  city: Anaheim
+  countryCode: US
+  regionCode: US-CA
+  languageCodes:
+  - en

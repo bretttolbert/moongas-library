@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Jim O'Rourke
+  city: Chicago
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-IL

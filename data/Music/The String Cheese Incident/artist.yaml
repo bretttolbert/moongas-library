@@ -1,0 +1,22 @@
+artistData:
+  artistNames:
+  - The String Cheese Incident
+  - SCI
+  city: Crested Butte
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-CO
+  members:
+    - artistNames: 
+      - Bill Nershi
+    - artistNames: 
+      - Michael Kang
+    - artistNames: 
+      - Michael Travis
+    - artistNames: 
+      - Keith Moseley
+    - artistNames: 
+      - Kyle Hollingsworth
+    - artistNames: 
+      - Jason Hann

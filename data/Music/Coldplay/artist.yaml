@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Coldplay
+  city: London
+  countryCode: GB
+  languageCodes:
+  - en
+  regionCode: GB-LND

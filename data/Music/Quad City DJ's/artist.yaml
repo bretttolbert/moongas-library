@@ -1,0 +1,17 @@
+artistData:
+  artistNames:
+  - Quad City DJ's
+  city: Jacksonville
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-FL
+  members:
+    artistNames:
+      - Jay Ski
+      - Johnny McGowan
+    artistNames:
+      - C.C. Lemonhead
+      - Nathaniel Orange
+    artistNames:
+      - JeLanna LaFleur

@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Piper
+  city: Tokyo
+  countryCode: JP
+  regionCode: JP-13
+  languageCodes:
+  - jp

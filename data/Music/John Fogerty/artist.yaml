@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - John Fogerty
+  city: Berkeley
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-CA

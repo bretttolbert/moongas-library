@@ -1,0 +1,17 @@
+artistData:
+  artistNames:
+  - Emperor X
+  dob:
+    y: 1998
+  city: Jacksonville
+  countryCode: US
+  regionCode: US-FL
+  languageCodes:
+  - en
+  members:
+    - artistNames:
+      - Chad Randall Matheny
+      dob:
+        y: 1979
+        m: 4
+        d: 8

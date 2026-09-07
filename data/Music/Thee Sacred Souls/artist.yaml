@@ -1,0 +1,17 @@
+artistData:
+  artistNames:
+  - Thee Sacred Souls
+  dob:
+    y: 2019
+  city: San Diego
+  countryCode: US
+  regionCode: US-CA
+  languageCodes:
+  - en
+  members:
+    - artistNames:
+      - Sal Samano
+    - artistNames:
+      - Alex Garcia
+    - artistNames:
+      - Josh Lane

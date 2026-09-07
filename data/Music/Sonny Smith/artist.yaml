@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Sonny Smith
+  city: San Francisco
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-CA

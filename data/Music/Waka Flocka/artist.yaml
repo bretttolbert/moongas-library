@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Waka Flocka
+  city: Atlanta
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-GA

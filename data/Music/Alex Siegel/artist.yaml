@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Alex Siegel
+  city: Los Angeles
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-CA

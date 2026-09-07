@@ -1,0 +1,19 @@
+artistData:
+  artistNames:
+  - Dr. Dre
+  city: Compton
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-CA
+  members:
+    - artistNames:
+      - Dr. Dre
+      - Dre
+      - Andre Romell Young
+    - artistNames:
+      - Snoop Dogg
+      - Snoop Doggy Dogg
+      - Snoop Lion
+      - Snoop
+      - Calvin Cordozar Broadus Jr.

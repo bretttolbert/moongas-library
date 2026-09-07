@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Peter Bjorn & John
+  city: Stockholm
+  countryCode: SE
+  languageCodes:
+  - en
+  regionCode: SE-AB

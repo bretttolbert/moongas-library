@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Lettuce
+  city: Boston
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-MA

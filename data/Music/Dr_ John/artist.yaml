@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Dr. John
+  city: New Orleans
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-LA

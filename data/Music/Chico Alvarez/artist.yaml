@@ -1,0 +1,9 @@
+artistData:
+  artistNames:
+  - Chico Alvarez
+  - Madaë
+  city: New York
+  countryCode: US
+  regionCode: US-NY
+  languageCodes:
+  - es

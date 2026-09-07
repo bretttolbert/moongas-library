@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Renaud
+  city: Paris
+  countryCode: FR
+  languageCodes:
+  - fr
+  regionCode: FR-IDF

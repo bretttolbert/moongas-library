@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - 'Mayer Hawthorne'
+  city: 'Ann Arbor'
+  countryCode: US
+  regionCode: US-MI
+  languageCodes:
+  - en

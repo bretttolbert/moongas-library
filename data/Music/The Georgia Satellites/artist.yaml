@@ -1,0 +1,19 @@
+artistData:
+  artistNames:
+  - The Georgia Satellites
+  dob:
+    y: 1986
+  city: Atlanta
+  countryCode: US
+  regionCode: US-GA
+  languageCodes:
+  - en
+  members:
+    - artistNames:	
+      - Rick Richards
+    - artistNames:
+      - Todd Johnston
+    - artistNames:
+      - Fred McNeal
+    - artistNames:
+      - Bruce Smith

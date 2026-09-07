@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - James Holden
+  city: Exeter
+  countryCode: GB
+  languageCodes:
+  - en
+  regionCode: GB-DEV

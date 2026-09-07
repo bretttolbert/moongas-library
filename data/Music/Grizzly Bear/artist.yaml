@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Grizzly Bear
+  city: New York City
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-NY

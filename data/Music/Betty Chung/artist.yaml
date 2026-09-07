@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - 'Betty Chung'
+  city: 'Hong Kong'
+  countryCode: CN
+  regionCode: CN-HK
+  languageCodes:
+  - zh

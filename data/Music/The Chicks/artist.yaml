@@ -1,0 +1,9 @@
+artistData:
+  artistNames:
+  - The Chicks
+  - Dixie Chicks
+  city: Dallas
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-TX

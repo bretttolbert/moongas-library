@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Peter Cetera
+  city: Chicago
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-IL

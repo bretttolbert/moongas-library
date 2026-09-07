@@ -1,0 +1,12 @@
+artistData:
+  artistNames:
+    - Snoop Dogg
+    - Snoop Doggy Dogg
+    - Snoop Lion
+    - Snoop
+    - Calvin Cordozar Broadus Jr.
+  city: Long Beach
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-CA

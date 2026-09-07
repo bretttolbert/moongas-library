@@ -1,0 +1,26 @@
+artistData:
+  artistNames:
+  - Damn Yankees
+  city: New York City
+  countryCode: US
+  regionCode: US-NY
+  languageCodes:
+  - en
+  members:
+    - artistNames:
+      - Tommy Shaw
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Jack Blades
+      artistRoles:
+      - bass
+      - vocals
+    - artistNames:
+      - Ted Nugent
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Michael Cartellone
+      artistRoles:
+      - drums

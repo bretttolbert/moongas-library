@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - ABBA
+  city: Stockholm
+  countryCode: SE
+  languageCodes:
+  - en
+  regionCode: SE-AB

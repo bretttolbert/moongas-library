@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Cream
+  city: London
+  countryCode: GB
+  languageCodes:
+  - en
+  regionCode: GB-LND

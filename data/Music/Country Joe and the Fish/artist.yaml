@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Country Joe and the Fish
+  city: Berkeley
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-CA

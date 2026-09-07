@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Medusa
+  city: London
+  countryCode: GB
+  languageCodes:
+  - en
+  regionCode: GB-LND

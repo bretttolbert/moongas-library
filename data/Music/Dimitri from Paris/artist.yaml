@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Dimitri from Paris
+  city: Paris
+  countryCode: FR
+  languageCodes:
+  - en
+  regionCode: FR-IDF

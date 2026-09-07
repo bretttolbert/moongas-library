@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Drake
+  city: Toronto
+  countryCode: CA
+  languageCodes:
+  - en
+  regionCode: CA-ON

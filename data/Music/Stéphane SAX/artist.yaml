@@ -1,0 +1,10 @@
+artistData:
+  artistNames:
+  - Stéphane SAX
+  - Stéphane AHMED
+  - Monsieur SAX
+  city: Montpellier
+  countryCode: FR
+  languageCodes:
+  - fr
+  regionCode: FR-OCC

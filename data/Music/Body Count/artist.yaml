@@ -1,0 +1,21 @@
+artistData:
+  artistNames:
+  - Body Count
+  city: Los Angeles
+  countryCode: US
+  regionCode: US-CA
+  languageCodes:
+  - en
+  members:
+    - artistNames:
+      - Ice-T
+    - artistNames:
+      - Ernie C
+    - artistNames:
+      - Vincent Price
+    - artistNames:
+      - Ill Will
+    - artistNames:
+      - Juan of the Dead
+    - artistNames:
+      - Lil Ice

@@ -1,0 +1,10 @@
+artistData:
+  artistNames:
+  - Sepulga
+  dob:
+    y: 1988
+  city: Huntsville
+  countryCode: US
+  regionCode: US-AL
+  languageCodes:
+  - en

@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Starbuck
+  city: Atlanta
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-GA

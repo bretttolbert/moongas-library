@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Microsoft
+  city: Redmond
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-WA

@@ -1,0 +1,35 @@
+artistData:
+  artistNames:
+  - Lockjaw
+  dob:
+    y: 1980
+  city: Portland
+  countryCode: OR
+  regionCode: US-OR
+  languageCodes:
+  - en
+  members:
+    - artistNames:
+      - Tony Arcudi
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Del Murry
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Eric Couch
+      artistRoles:
+      - bass
+    - artistNames:
+      - Rob Parker
+      artistRoles:
+      - drums
+    - artistNames:
+      - Garrett Garitano
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Jeremy J.
+      artistRoles:
+      - drums

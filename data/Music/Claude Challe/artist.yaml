@@ -1,0 +1,12 @@
+artistData:
+  artistNames:
+  - Claude Challe
+  - Buddha Bar
+  city: Paris
+  countryCode: FR
+  languageCodes:
+  - fr
+  regionCode: FR-IDF
+  dob:
+    y: 1945
+  

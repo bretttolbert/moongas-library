@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Prince
+  city: Minneapolis
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-MN

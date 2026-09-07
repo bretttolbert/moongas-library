@@ -1,0 +1,43 @@
+artistData:
+  artistNames:
+  - Gatta Morta
+  dob:
+    y: 2026
+  city: ''
+  countryCode: US
+  regionCode: US-NY
+  languageCodes:
+  - en
+  members:
+    - artistNames:
+      - Buzz Osborne
+      dob:
+        y: 1964
+        m: 3
+        d: 25
+      artistBands:
+      - Melvins
+      artistRoles:
+      - guitar
+      - vocals
+    - artistNames:
+      - JD Pinkus
+      artistRoles:
+      - bass
+      - vocals
+      artistBands:
+      - Butthole Surfers
+    - artistNames:
+      - Coady Willis
+      artistRoles:
+      - drums
+      - vocals
+      artistBands:
+      - Big Business
+    - artistNames:
+      - Clinton Jacob
+      artistRoles:
+      - guitar
+      - vocals
+      artistBands:
+      - Mr. Phylzzz

@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - 'She She She'
+  city: 'New York City'
+  countryCode: US
+  regionCode: US-NY
+  languageCodes:
+  - en

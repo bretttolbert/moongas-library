@@ -1,0 +1,9 @@
+artistData:
+  artistNames:
+  - '7Horse'
+  - '7 Horse'
+  city: Los Angeles
+  countryCode: US
+  regionCode: US-CA
+  languageCodes:
+  - en

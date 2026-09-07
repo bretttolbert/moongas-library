@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Tesla
+  city: Sacramento
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-CA

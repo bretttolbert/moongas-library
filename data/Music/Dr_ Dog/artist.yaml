@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Dr. Dog
+  city: Philadelphia
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-PA

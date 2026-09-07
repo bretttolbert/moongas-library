@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - 'BOYZ N DA HOOD'
+  city: 'Los Angeles'
+  countryCode: US
+  regionCode: US-CA
+  languageCodes:
+  - en

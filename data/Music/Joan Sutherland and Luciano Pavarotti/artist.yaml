@@ -1,0 +1,13 @@
+artistData:
+  artistNames:
+  - Joan Sutherland and Luciano Pavarotti
+  city: New York City
+  countryCode: US
+  regionCode: US-NY
+  languageCodes:
+  - en
+  members:
+    - artistNames:
+      - Joan Sutherland
+    - artistNames:
+      - Luciano Pavarotti

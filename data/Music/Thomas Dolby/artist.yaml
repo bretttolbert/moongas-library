@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Thomas Dolby
+  city: London
+  countryCode: GB
+  languageCodes:
+  - en
+  regionCode: GB-LND

@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Jane's Addiction
+  city: Los Angeles
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-CA

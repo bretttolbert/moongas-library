@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - John Maus
+  city: Austin
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-MN

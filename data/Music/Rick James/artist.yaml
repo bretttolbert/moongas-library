@@ -1,0 +1,13 @@
+artistData:
+  artistNames:
+  - Rick James
+  city: Buffalo
+  countryCode: US
+  regionCode: US-NY
+  languageCodes:
+  - en
+  members:
+    - artistNames:
+      - Rick James 
+      artistRoles:
+      - singer,songwriter,record-producer

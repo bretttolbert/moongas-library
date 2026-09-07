@@ -1,0 +1,13 @@
+artistData:
+  artistNames:
+  - Pink Martini
+  city: Portland
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-OR
+  dob:
+    y: 1994
+  members:
+    - artistNames:
+      - Thomas_Lauderdale

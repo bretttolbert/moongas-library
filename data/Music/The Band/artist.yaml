@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - The Band
+  city: Toronto
+  countryCode: CA
+  languageCodes:
+  - en
+  regionCode: CA-ON

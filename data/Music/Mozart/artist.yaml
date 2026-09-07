@@ -1,0 +1,9 @@
+artistData:
+  artistNames:
+  - Mozart
+  - Wolfgang Amadeus Mozart
+  city: Salzburg
+  countryCode: AT
+  languageCodes:
+  - de
+  regionCode: AT-5

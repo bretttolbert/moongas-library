@@ -1,0 +1,17 @@
+artistData:
+  artistNames:
+  - Los Hermanos Rosario
+  dob:
+    y: 1978
+  city: Higuey
+  countryCode: DO
+  regionCode: DO-11
+  languageCodes:
+  - es
+  members:
+    - artistNames:
+      - Rafa Rosario
+      artistBands:
+      - Luis Rosario
+      artistRoles:
+      - Tony Rosario

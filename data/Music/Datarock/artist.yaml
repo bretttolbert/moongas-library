@@ -1,0 +1,26 @@
+artistData:
+  artistNames:
+  - Datrock
+  city: Bergen
+  countryCode: NO
+  regionCode: NO-46
+  languageCodes:
+  - en
+  members:
+    - artistNames:
+      - Fredrik Saroea
+      artistRoles:
+      - vocals
+      - guitar
+      - drums
+    - artistNames:
+      - Ketil Mosnes
+      artistRoles:
+      - bass
+      - programming
+      - keyboards
+      - backing vocals
+    - artistNames:
+      - Kevin O'Brien
+      artistRoles:
+      - vocals

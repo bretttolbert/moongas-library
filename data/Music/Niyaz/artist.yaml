@@ -1,0 +1,23 @@
+artistData:
+  artistNames:
+  - Niyaz
+  dob:
+    y: 2005
+  city: Tehran
+  countryCode: IR
+  regionCode: IR-23
+  languageCodes:
+  - fa
+  - ur
+  - tr
+  - ar
+  - ku
+  members:
+    - artistNames:
+      - Azam Ali
+    - artistRoles:
+      - Vocals
+    - artistNames:
+      - Loga Ramin Torkian
+    - artistNames:
+      - Habib Meftah Bouchehri

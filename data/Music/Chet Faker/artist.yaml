@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Chet Faker
+  city: Melbourne
+  countryCode: AU
+  languageCodes:
+  - en
+  regionCode: AU-VIC

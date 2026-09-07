@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Alice in Chains
+  city: Seattle
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-WA

@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - John Lennon
+  city: Liverpool
+  countryCode: GB
+  languageCodes:
+  - en
+  regionCode: GB-NWK

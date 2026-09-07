@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - A-ha
+  city: Oslo
+  countryCode: 'NO'
+  languageCodes:
+  - en
+  regionCode: NO-03

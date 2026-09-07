@@ -1,0 +1,22 @@
+artistData:
+  artistNames:
+  - N.W.A.
+  - Niggaz Wit Attitudes
+  city: Compton
+  countryCode: US
+  languageCodes:
+  - en
+  regionCode: US-CA
+  members:
+    - artistNames:
+      - Easy-E
+    - artistNames:
+      - Dr. Dre
+    - artistNames:
+      - Ice Cube
+    - artistNames:
+      - Arabian Prince
+    - artistNames:
+      - DJ Yella
+    - artistNames:
+      - MC Ren

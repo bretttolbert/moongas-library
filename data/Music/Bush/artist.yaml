@@ -1,0 +1,8 @@
+artistData:
+  artistNames:
+  - Bush
+  city: London
+  countryCode: GB
+  languageCodes:
+  - en
+  regionCode: GB-LND
