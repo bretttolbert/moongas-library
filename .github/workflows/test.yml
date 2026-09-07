@@ -45,6 +45,8 @@ jobs:
         with:
           python-version: '3.14'
 
+      # TODO: Run moongas-go-mediascan/cmd/scanartistsyaml
+
       - name: Install Python Packages & Run Tests
         run: |
           python -m pip install --upgrade pip
@@ -55,4 +57,4 @@ jobs:
           
           # Execute test suite inside the test repository folder
           cd moongas-py-mediatest
-          python -m mediatest ../mediatest-config.yml
+          python -m mediatest mediatest-config.yml
