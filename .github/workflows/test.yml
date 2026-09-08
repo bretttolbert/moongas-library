@@ -44,7 +44,7 @@ jobs:
       - name: Run Go scanartistsyaml
         working-directory: ./moongas-go-mediascan
         run: |
-          go run cmd/scanartistsyaml/main.go "$GITHUB_WORKSPACE/mediascan-config.yml" "$GITHUB_WORKSPACE/mediascan-artists.yml"
+          go run cmd/scanartistsyaml/main.go "$GITHUB_WORKSPACE/moongas-library/mediascan-config.yml" "$GITHUB_WORKSPACE/moongas-library/mediascan-artists.yml"
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -62,4 +62,4 @@ jobs:
 
       - name: Run mediatest on moongas-library
         run: |
-          python -m mediatest ./mediatest-config.yml
+          python -m mediatest "$GITHUB_WORKSPACE/moongas-library/mediatest-config.yml"
