@@ -40,21 +40,24 @@ jobs:
           # Ensure Go binary path is available in PATH
           echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
 
+      # TODO: Run moongas-go-mediascan/cmd/scanartistsyaml
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.14'
 
-      # TODO: Run moongas-go-mediascan/cmd/scanartistsyaml
+      - name: Upgrade Pip y
+        run: python -m pip install --upgrade pip
 
-      - name: Install Python Packages & Run Tests
+      - name: Install Local Python Package mediascan
         run: |
-          python -m pip install --upgrade pip
-          
-          # Install cloned Python repositories locally
-          pip install -e ./moongas-py-mediascan
-          pip install -e ./moongas-py-mediatest
-          
-          # Execute test suite inside the test repository folder
-          cd moongas-py-mediatest
-          python -m mediatest mediatest-config.yml
+          pip install --force-reinstall -e ./moongas-py-mediascan
+
+      - name: Install Local Python Package mediatest
+        run: |
+          pip install --force-reinstall -e ./moongas-py-mediatest
+
+      - name: Run mediatest on moongas-libary
+        run: python -m mediatest mediatest-config.yml
+        working-directory: moongas-py-mediatest
