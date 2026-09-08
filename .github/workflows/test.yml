@@ -1,4 +1,4 @@
-name: Run Moongas mediatest Python Tests
+name: Run moongas mediatest python tests
 
 on:
   push:
@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check out this repository
+        uses: actions/checkout@v4
+
       - name: Check out moongas-go-mediascan
         uses: actions/checkout@v4
         with:
@@ -37,27 +40,26 @@ jobs:
         run: |
           cd moongas-go-mediascan
           go install ./...
-          # Ensure Go binary path is available in PATH
-          echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
 
-      # TODO: Run moongas-go-mediascan/cmd/scanartistsyaml
+      - name: Run Go scanartistsyaml
+        working-directory: ./moongas-go-mediascan
+        run: |
+          go run cmd/scanartistsyaml/main.go "$GITHUB_WORKSPACE/mediascan-config.yml" "$GITHUB_WORKSPACE/mediascan-artists.yml"
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.14'
+          python-version: '3.13'
 
-      - name: Upgrade Pip y
-        run: python -m pip install --upgrade pip
+      - name: Upgrade Pip
+        run: |
+          python -m pip install --upgrade pip
 
-      - name: Install Local Python Package mediascan
+      - name: Install Local Python Packages
         run: |
           pip install --force-reinstall -e ./moongas-py-mediascan
-
-      - name: Install Local Python Package mediatest
-        run: |
           pip install --force-reinstall -e ./moongas-py-mediatest
 
-      - name: Run mediatest on moongas-libary
-        run: python -m mediatest mediatest-config.yml
-        working-directory: moongas-py-mediatest
+      - name: Run mediatest on moongas-library
+        run: |
+          python -m mediatest ./mediatest-config.yml
