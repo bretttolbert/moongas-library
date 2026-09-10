@@ -1,6 +1,5 @@
 mediaDirs: 
-    - /data/Music
-    - /data/MusicOther
+    - ./data/Music
 mediaExts:
     - .mp3
     - .m4a
