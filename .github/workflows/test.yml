@@ -43,8 +43,7 @@ jobs:
 
       - name: Run Go scanartistsyaml
         run: |
-          cd moongas-go-mediascan
-          go run cmd/scanartistsyaml/main.go "$GITHUB_WORKSPACE/mediascan-config.yml" "$GITHUB_WORKSPACE/mediascan-artists.yml"
+          go run "$GITHUB_WORKSPACE/moongas-go-mediascan/cmd/scanartistsyaml/main.go" "$GITHUB_WORKSPACE/mediascan-config.yml" "$GITHUB_WORKSPACE/mediascan-artists.yml"
 
       - name: Upload mediascan-artists.yml artifact
         uses: actions/upload-artifact@v4
