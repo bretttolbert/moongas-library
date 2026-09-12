@@ -6,3 +6,22 @@ artistData:
   languageCodes:
   - en
   regionCode: NO-03
+  members:
+    - artistNames:
+      - Morten Harket
+      dob:
+        y: 1959
+        m: 9
+        d: 14
+    - artistNames:
+      - Pål Waaktaar-Savoy
+      dob:
+        y: 1961
+        m: 9
+        d: 6
+    - artistNames:
+      - Magne Furuholmen
+      dob:
+        y: 1962
+        m: 11
+        d: 1

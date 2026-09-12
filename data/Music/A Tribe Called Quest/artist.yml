@@ -6,3 +6,26 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NY
+  members:
+    - artistNames:
+      - Q-Tip
+      dob:
+        y: 1970
+        m: 9
+        d: 10
+    - artistNames:
+      - Ali Shaheed Muhammad
+      dob:
+        y: 1970
+        m: 10
+        d: 11
+    - artistNames:
+      - Phife Dawg
+      dob:
+        y: 1970
+        m: 12
+        d: 20
+      dod:
+        y: 2016
+        m: 3
+        d: 22
