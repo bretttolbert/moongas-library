@@ -6,5 +6,6 @@ artistData:
   city: Douala
   countryCode: CM
   regionCode: CM-LT
+  members: []
   languageCodes:
   - en

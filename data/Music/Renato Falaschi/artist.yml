@@ -4,5 +4,6 @@ artistData:
   city: Bari
   countryCode: IT
   regionCode: IT-75
+  members: []
   languageCodes:
   - it

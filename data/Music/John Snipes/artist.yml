@@ -8,5 +8,6 @@ artistData:
   city: Chatham County
   countryCode: US
   regionCode: US-NC
+  members: []
   languageCodes:
   - en

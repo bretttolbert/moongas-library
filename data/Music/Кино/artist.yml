@@ -4,5 +4,6 @@ artistData:
   city: Leningrad
   countryCode: RU
   regionCode: RU-LEN
+  members: []
   languageCodes:
   - ru

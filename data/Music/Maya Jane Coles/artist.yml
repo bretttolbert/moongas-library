@@ -6,5 +6,6 @@ artistData:
   city: London
   countryCode: GB
   regionCode: GB-LND
+  members: []
   languageCodes:
   - en

@@ -4,5 +4,6 @@ artistData:
   city: Sydney
   countryCode: AU
   regionCode: AU-NSW
+  members: []
   languageCodes:
   - en

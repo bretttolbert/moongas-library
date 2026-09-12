@@ -4,5 +4,6 @@ artistData:
   city: Houston
   countryCode: US
   regionCode: US-TX
+  members: []
   languageCodes:
   - en

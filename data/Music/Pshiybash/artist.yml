@@ -4,5 +4,6 @@ artistData:
   city: Beijing
   countryCode: CN
   regionCode: CN-BJ
+  members: []
   languageCodes:
   - zh

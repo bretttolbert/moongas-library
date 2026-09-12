@@ -4,5 +4,6 @@ artistData:
   city: Creston
   countryCode: US
   regionCode: US-IA
+  members: []
   languageCodes:
   - en

@@ -4,5 +4,6 @@ artistData:
   city: Tijuana
   countryCode: MX
   regionCode: MX-BCN
+  members: []
   languageCodes:
   - es

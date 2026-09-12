@@ -8,5 +8,6 @@ artistData:
   city: Hanover
   countryCode: US
   regionCode: US-NH
+  members: []
   languageCodes:
   - en

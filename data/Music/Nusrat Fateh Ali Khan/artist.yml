@@ -14,5 +14,6 @@ artistData:
   city: Faisalabad
   countryCode: PK
   regionCode: PK-PB
+  members: []
   languageCodes:
   - pa

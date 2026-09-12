@@ -5,5 +5,6 @@ artistData:
   city: New York
   countryCode: US
   regionCode: US-NY
+  members: []
   languageCodes:
   - es

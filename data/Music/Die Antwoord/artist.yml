@@ -4,5 +4,6 @@ artistData:
   city: Cape Town
   countryCode: ZA
   regionCode: ZA-WC
+  members: []
   languageCodes:
   - en

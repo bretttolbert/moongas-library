@@ -8,6 +8,7 @@ artistData:
   languageCodes:
   - en
   regionCode: US-NC
+  members: []
   dob:
     y: 1917
     m: 10

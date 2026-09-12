@@ -4,5 +4,6 @@ artistData:
   city: Athens
   countryCode: US
   regionCode: US-GA
+  members: []
   languageCodes:
   - en

@@ -12,5 +12,6 @@ artistData:
   city: Alamance County
   countryCode: US
   regionCode: US-NC
+  members: []
   languageCodes:
   - en

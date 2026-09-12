@@ -4,5 +4,6 @@ artistData:
   city: 'Paris'
   countryCode: FR
   regionCode: FR-IDF
+  members: []
   languageCodes:
   - en

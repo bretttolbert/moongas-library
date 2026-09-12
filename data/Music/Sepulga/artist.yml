@@ -6,5 +6,6 @@ artistData:
   city: Huntsville
   countryCode: US
   regionCode: US-AL
+  members: []
   languageCodes:
   - en

@@ -4,5 +4,6 @@ artistData:
   city: San Fernando Valley
   countryCode: US
   regionCode: US-CA
+  members: []
   languageCodes:
   - en

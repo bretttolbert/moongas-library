@@ -4,5 +4,6 @@ artistData:
   city: Newark
   countryCode: US
   regionCode: US-NJ
+  members: []
   languageCodes:
   - en
