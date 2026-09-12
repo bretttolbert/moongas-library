@@ -4,5 +4,6 @@ artistData:
   city: Havana
   countryCode: CU
   regionCode: CU-03
+  members: []
   languageCodes:
   - es

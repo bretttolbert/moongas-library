@@ -8,6 +8,7 @@ artistData:
   languageCodes:
   - fr
   regionCode: FR-IDF
+  members: []
   dob:
     y: 1966
     m: 7

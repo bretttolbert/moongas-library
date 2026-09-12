@@ -4,5 +4,6 @@ artistData:
   city: Birán
   countryCode: CU
   regionCode: CU-11
+  members: []
   languageCodes:
   - es

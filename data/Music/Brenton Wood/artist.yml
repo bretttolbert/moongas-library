@@ -12,5 +12,6 @@ artistData:
   city: Los Angeles
   countryCode: US
   regionCode: US-CA
+  members: []
   languageCodes:
   - en

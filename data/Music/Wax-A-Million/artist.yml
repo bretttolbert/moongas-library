@@ -4,5 +4,6 @@ artistData:
   city: Detroit
   countryCode: US
   regionCode: US-MI
+  members: []
   languageCodes:
   - en

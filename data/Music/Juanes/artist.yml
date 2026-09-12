@@ -4,5 +4,6 @@ artistData:
   city: Medellín
   countryCode: CO
   regionCode: CO-ANT
+  members: []
   languageCodes:
   - es

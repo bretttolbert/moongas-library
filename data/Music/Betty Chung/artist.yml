@@ -4,5 +4,6 @@ artistData:
   city: 'Hong Kong'
   countryCode: CN
   regionCode: CN-HK
+  members: []
   languageCodes:
   - zh

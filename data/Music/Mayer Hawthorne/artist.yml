@@ -4,5 +4,6 @@ artistData:
   city: 'Ann Arbor'
   countryCode: US
   regionCode: US-MI
+  members: []
   languageCodes:
   - en

@@ -8,5 +8,6 @@ artistData:
   city: Forth Worth
   countryCode: US
   regionCode: US-TX
+  members: []
   languageCodes:
   - en

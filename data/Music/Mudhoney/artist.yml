@@ -4,5 +4,6 @@ artistData:
   city: Seattle
   countryCode: US
   regionCode: US-WA
+  members: []
   languageCodes:
   - en

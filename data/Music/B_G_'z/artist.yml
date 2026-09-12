@@ -6,5 +6,6 @@ artistData:
   city: 'New Orleans'
   countryCode: US
   regionCode: US-LA
+  members: []
   languageCodes:
   - en

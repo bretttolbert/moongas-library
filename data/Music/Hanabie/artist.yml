@@ -4,5 +4,6 @@ artistData:
   city: Tokyo
   countryCode: JP
   regionCode: JP-13
+  members: []
   languageCodes:
   - jp

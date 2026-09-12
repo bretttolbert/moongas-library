@@ -4,5 +4,6 @@ artistData:
   city: Lille
   countryCode: FR
   regionCode: FR-HDF
+  members: []
   languageCodes:
   - fr

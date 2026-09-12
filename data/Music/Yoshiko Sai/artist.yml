@@ -4,5 +4,6 @@ artistData:
   city: Kyoto
   countryCode: JP
   regionCode: JP-26
+  members: []
   languageCodes:
   - jp

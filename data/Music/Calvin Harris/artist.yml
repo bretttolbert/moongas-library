@@ -4,5 +4,6 @@ artistData:
   city: Dumfries
   countryCode: GB
   regionCode: GB-DGY
+  members: []
   languageCodes:
   - en

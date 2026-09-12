@@ -12,5 +12,6 @@ artistData:
   city: Lagos
   countryCode: NG
   regionCode: NG-LA
+  members: []
   languageCodes:
   - en
