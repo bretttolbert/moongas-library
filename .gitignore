@@ -8,10 +8,11 @@ ENV/
 env.bak/
 venv.bak/
 
-# Mediascan package dirs
+# Mediascan package install dirs
 **/moongas-go-mediascan
 **/moongas-py-mediascan
 **/moongas-py-mediatest
+**/moongas-py-mediaserver
 
 # Mediascan output files
 **/mediascan-files.yml

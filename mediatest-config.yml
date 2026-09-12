@@ -1,5 +1,5 @@
 mediatestRootdir: ./moongas-py-mediatest/
-mediascanFilesYamlPath: mediascan-files.yml
+mediascanFilesYamlPath: null
 minimumFilesize: 10000
 extsMedia:
   - mp3
@@ -13,7 +13,7 @@ extsLyrics:
   - lrc
   - txt
 extsMetadata:
-  - yaml
+  - yml
 extsExtra:
   - pdf
 libGenresModeBlacklist: false
