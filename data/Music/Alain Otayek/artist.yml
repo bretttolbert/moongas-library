@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Alain Otayek
+  dob:
+    y: 1963
+    m: 7
+    d: 29
   city: Beirut
   countryCode: LB
   languageCodes:

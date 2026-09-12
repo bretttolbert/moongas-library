@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Alice Cooper
+  dob:
+    y: 1948
+    m: 2
+    d: 4
   city: Detroit
   countryCode: US
   languageCodes:

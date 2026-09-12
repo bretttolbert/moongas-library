@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Aphex Twin
+  dob:
+    y: 1971
+    m: 8
+    d: 18
   city: Lanner
   countryCode: GB
   languageCodes:

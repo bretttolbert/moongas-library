@@ -6,4 +6,16 @@ artistData:
   languageCodes:
   - fr
   regionCode: FR-IDF
-  members: []
+  members:
+    - artistNames:
+      - Nicolas Godin
+      dob:
+        y: 1969
+        m: 2
+        d: 23
+    - artistNames:
+      - Jean-Benoît Dunckel
+      dob:
+        y: 1969
+        m: 1
+        d: 29

@@ -6,4 +6,10 @@ artistData:
   languageCodes:
   - mi
   regionCode: NZ-NTL
-  members: []
+  members:
+    - artistNames:
+      - Lewis de Jong
+    - artistNames:
+      - Henry Te
+    - artistNames:
+      - Ethan Trembath

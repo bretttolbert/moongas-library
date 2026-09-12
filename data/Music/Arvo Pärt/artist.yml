@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - Arvo Pärt
+  dob:
+    y: 1935
+    m: 9
+    d: 11
   city: Paide
   countryCode: EE
   languageCodes:

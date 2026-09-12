@@ -6,4 +6,12 @@ artistData:
   languageCodes:
   - en
   regionCode: GB-NWK
-  members: []
+  members:
+    - artistNames:
+      - Mike Score
+    - artistNames:
+      - Ali Score
+    - artistNames:
+      - Frank Maudsley
+    - artistNames:
+      - Paul Reynolds

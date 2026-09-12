@@ -1,6 +1,10 @@
 artistData:
   artistNames:
   - AURORA
+  dob:
+    y: 1996
+    m: 6
+    d: 15
   city: Stavanger
   countryCode: 'NO'
   languageCodes:
