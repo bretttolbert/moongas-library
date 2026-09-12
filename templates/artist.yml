@@ -1,0 +1,19 @@
+artistData:
+  artistNames:
+  - The Brian Jonestown Massacre
+  dob:
+    y: 1990
+    m: 1
+    d: 1
+  city: San Francisco
+  countryCode: US
+  regionCode: US-CA
+  languageCodes:
+  - en
+  members:
+    - artistNames:
+      - Joel Gion
+      artistBands:
+      - The Brian Jonestown Massacre
+      artistRoles:
+      - tambourine

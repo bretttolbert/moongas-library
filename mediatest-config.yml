@@ -19,10 +19,10 @@ extsExtra:
 libGenresModeBlacklist: false
 libs:
   - mediaPath: /data/Music/
-    expectedMediaCount: 21666
-    expectedLrcCount: 11547
+    expectedMediaCount: 0
+    expectedLrcCount: 0
     totalFilesizeLimitGb: 200
-    expectedFilesizeGb: 167
+    expectedFilesizeGb: 0
     genres:
     - Acid Punk
     - Acid Rock
