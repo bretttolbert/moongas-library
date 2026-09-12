@@ -1,8 +1,29 @@
 artistData:
   artistNames:
   - '''Til Tuesday'
+  dob:
+    y: 1982
   city: Boston
   countryCode: US
   languageCodes:
   - en
   regionCode: US-MA
+  members:
+    - artistNames:
+      - Aimee Mann
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Robert Holmes
+      artistRoles:
+      - drums
+    - artistNames:
+      - Joey Alkes
+      artistRoles:
+      - bass
+    - artistNames:
+      - Michael Hausman
+      artistRoles:
+      - guitar
+      - keyboards

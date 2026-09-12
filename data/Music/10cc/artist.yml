@@ -1,8 +1,34 @@
 artistData:
   artistNames:
   - 10cc
+  dob:
+    y: 1972
   city: Stockport
   countryCode: GB
   languageCodes:
   - en
   regionCode: GB-ENG
+  members:
+    - artistNames:
+      - Eric Stewart
+      artistRoles:
+      - vocals
+      - guitar
+    - artistNames:
+      - Graham Gouldman
+      artistRoles:
+      - bass
+      - guitar
+    - artistNames:
+      - Rick Fenn
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Paul Burgess
+      artistRoles:
+      - drums
+    - artistNames:
+      - Kevin Godley
+      artistRoles:
+      - vocals
+      - drums

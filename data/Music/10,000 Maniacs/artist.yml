@@ -1,8 +1,31 @@
 artistData:
   artistNames:
   - 10,000 Maniacs
+  dob:
+    y: 1981
   city: Jamestown
   countryCode: US
   languageCodes:
   - en
   regionCode: US-NY
+  members:
+    - artistNames:
+      - Natalie Merchant
+      artistRoles:
+      - vocals
+    - artistNames:
+      - Steve Gustafson
+      artistRoles:
+      - bass
+    - artistNames:
+      - Dennis Drew
+      artistRoles:
+      - keyboards
+    - artistNames:
+      - Rob Buck
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Teri Newhouse
+      artistRoles:
+      - guitar
